@@ -1,10 +1,10 @@
 # 💫 About Me:
-👨‍💻 Estudante de Java apaixonado por programação e tecnologia 💻
-📚 Aprendendo sobre Java e desenvolvimento de software todos os dias 📖
-✨ Explorando o mundo da programação para criar soluções inovadoras ✨
-🔍 Em busca de novos desafios e oportunidades na área de desenvolvimento 💡
-🌱 Compartilhando conhecimento e aprendizados sobre Java e programação 🚀
-🎓 Futuro desenvolvedor Java em formação 🎯<br><br>
+👨‍💻 Estudante de Java apaixonado por programação e tecnologia 💻<br>
+📚 Aprendendo sobre Java e desenvolvimento de software todos os dias 📖<br>
+✨ Explorando o mundo da programação para criar soluções inovadoras ✨<br>
+🔍 Em busca de novos desafios e oportunidades na área de desenvolvimento 💡<br>
+🌱 Compartilhando conhecimento e aprendizados sobre Java e programação 🚀<br>
+🎓 Futuro desenvolvedor Java em formação 🎯<br>
 
 
 ## 🌐 Socials:
