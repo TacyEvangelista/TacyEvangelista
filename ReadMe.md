@@ -1,10 +1,10 @@
 # 💫 About Me:
-👨‍💻 Estudante de ADS apaixonado por programação e café ☕<br>
-📚 Aprendendo sobre Java e desenvolvimento de software todos os dias 📖<br>
-✨ Explorando o mundo da programação para criar soluções inovadoras ✨<br>
-🔍 Em busca de novos desafios e oportunidades na área de desenvolvimento 💡<br>
-🌱 Compartilhando conhecimento e aprendizados sobre Java e programação 🚀<br>
-🎓 Futuro desenvolvedor Java em formação 🎯<br>
+👨‍💻 ADS student passionate about programming and coffee ☕ <br>
+📚 Learning about Java and software development every day 📖 <br>
+✨ Exploring the world of programming to create innovative solutions ✨ <br>
+🔍 Looking for new challenges and opportunities in the area of ​​development 💡 <br>
+🌱 Sharing knowledge and learning about Java and programming 🚀 <br>
+🎓 Future Java developer in training 🎯 <br>
 
 
 ## 🌐 Socials:
