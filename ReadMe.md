@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 ADS student passionate about programming and coffee ☕ <br>
-📚 Learning about Java and software development every day 📖 <br>
+📚 Learning about C# and software development every day 📖 <br>
 ✨ Exploring the world of programming to create innovative solutions ✨ <br>
 🔍 Looking for new challenges and opportunities in the area of ​​development 💡 <br>
 🌱 Sharing knowledge and learning about Java and programming 🚀 <br>
