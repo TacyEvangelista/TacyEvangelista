@@ -4,7 +4,7 @@
 ✨ Exploring the world of programming to create innovative solutions ✨ <br>
 🔍 Looking for new challenges and opportunities in the area of ​​development 💡 <br>
 🌱 Sharing knowledge and learning about Java and programming 🚀 <br>
-🎓 Future Java developer in training 🎯 <br>
+🎓 Future developer in training 🎯 <br>
 
 
 ## 🌐 Socials:
