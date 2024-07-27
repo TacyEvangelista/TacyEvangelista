@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi 👋! My name is Tacy and I'm I study, from system analysis</h2>
 
 ###
 
@@ -36,8 +36,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Tacyalmeida/Tacyalmeida/output/snake.svg" alt="Snake animation" />
 
