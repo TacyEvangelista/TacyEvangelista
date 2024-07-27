@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Tacy and I'm I study, from system analysis</h2>
+<h2 align="center">Hi 👋! My name is Tacy and I'm I study, system analysis</h2>
 
 ###
 
