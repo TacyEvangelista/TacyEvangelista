@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<div align="center>
+<div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TacyEvangelista&theme=meta-dark&hide_border=verdadeiro)](https://git.io/streak-stats)
 </div>
@@ -20,8 +20,14 @@
 <img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/dbd9222c-d62c-4cba-b839-cc076815c812">
 </a>
 
-<a href="https://https://www.instagram.com/dev_alm_/" target="_blank">>
-<img aling="center" height="80" widt="80" csr="https://github.com/user-attachments/assets/38b9817d-3ea5-425f-8988-cfbd01481c45">
-</a>
+</div>
+
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/TacyEvangelista?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=cyan&dark=true) 
 
 </div>
+
+
+
