@@ -15,8 +15,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TacyEvangelista&theme=meta-dark&hide_border=verdadeiro)](https://git.io/streak-stats)
 </div>
 
+<div align="center">
+<a href="https://https://www.linkedin.com/in/taciane-de-almeida-426a81288/" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/dbd9222c-d62c-4cba-b839-cc076815c812">
+</a>
 
-
+<a href="https://https://www.instagram.com/dev_alm_/" target="_blank">>
+<img aling="center" height="80" widt="80" csr="https://github.com/user-attachments/assets/38b9817d-3ea5-425f-8988-cfbd01481c45">
+</a>
 
 </div>
-
