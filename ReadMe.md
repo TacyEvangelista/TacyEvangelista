@@ -17,7 +17,7 @@
 
 <div align="center">
 <a href="https://https://www.linkedin.com/in/taciane-de-almeida-426a81288/" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/dbd9222c-d62c-4cba-b839-cc076815c812">
+<img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/dbd9222c-d62c-4cba-b839-cc076815c812">
 </a>
 
 </div>
@@ -29,7 +29,8 @@
 
 </div>
 
-##main skills:
-
+Main skills:
+<div align ="left">
+  <img align="left" height="84" src="https://github.com/user-attachments/assets/4e6da33f-f22d-4814-ae0f-b825ecdab70b">
 
 
