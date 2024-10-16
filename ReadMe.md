@@ -31,6 +31,17 @@
 
 Main skills:
 <div align ="left">
-  <img align="left" height="84" src="https://github.com/user-attachments/assets/4e6da33f-f22d-4814-ae0f-b825ecdab70b">
+  <img align="left" height="84" src="https://github.com/user-attachments/assets/f256f345-5fb6-4ecd-a711-6ea7c3560808">
 
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<br>
+</div>
 
