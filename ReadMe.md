@@ -46,8 +46,11 @@ Main skills:
 <br>
 </div>
 
+<div aligh ="left">
+  
+<img width=100% src="https://github.com/user-attachments/assets/ca1ea02f-8c56-42fd-bd6a-d1a8dabe376a"/>
 
-
+</div>
 <br>
 <br> 
 
