@@ -7,7 +7,7 @@
         </a>
       </td>
       <td align="center" style="vertical-align: middle;">
-        <img src="https://cdn.picrew.me/shareImg/org/202609/2486886_A15Rrg4V.png" alt="Picrew" width="120px">
+        <img src="https://cdn.picrew.me/shareImg/org/202609/2795963_dNU52fPD.png" alt="Picrew" width="120px">
       </td>
     </tr>
   </table>
