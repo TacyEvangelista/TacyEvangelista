@@ -1,16 +1,8 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+  <img src="./src/https://picrew.me/share?cd=vVPUaDu2Xr.png" alt="Welcome Banner">
 </div>
 
 <br>
-
-<div align="center">
-  <img alt="Picrew" src="https://raw.githubusercontent.com/TacyEvangelista/TacyEvangelista/main/sua-imagem-aqui.png"> <!-- Mantenha o link da sua imagem do Picrew aqui -->
-</div>
-
-#
 
 <p align="justify">
   <img align="right" alt="Study GIF" height="190px" src="./src/study.gif" style="margin-left: 20px; margin-bottom: 10px;">
