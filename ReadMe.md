@@ -34,8 +34,7 @@ Unindo a tecnologia às ciências da vida, pesquiso modelagem neurofisiológica 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
-  <img width="8" />
-#
+  <img width="8" /> #
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
