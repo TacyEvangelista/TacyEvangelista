@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">EEstudante de Biomedicina na UniFatecie. Atualmente estudo Python com foco em Bioinformática, além de C#, Java e tecnologias frontend. 
+<p align="center">Estudante de Biomedicina na UniFatecie. Atualmente estudo Python com foco em Bioinformática, além de C#, Java e tecnologias frontend. 
 Unindo a tecnologia às ciências da vida, pesquiso modelagem neurofisiológica e simulações computacionais aplicadas a genes neurais. Busco constantemente novos desafios para criar soluções inovadoras que conectem programação e neurociência.
   
 #
