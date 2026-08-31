@@ -1,6 +1,5 @@
-<!-- Cabeçalho com fundo azul, letreiro e imagem do Picrew lado a lado -->
 <div align="center">
-  <table width="100%" style="background-color: #0d3b66; border-radius: 8px; padding: 10px;">
+  <table width="100%" style="background-color: #0056b3; border-radius: 8px; padding: 10px;">
     <tr>
       <td align="center" style="vertical-align: middle;">
         <a href="https://git.io/typing-svg">
@@ -8,7 +7,7 @@
         </a>
       </td>
       <td align="center" style="vertical-align: middle;">
-        <img src="URL_DA_SUA_IMAGEM_DO_PICREW_AQUI" alt="Picrew Avatar" width="120px">
+        <img src="https://cdn.picrew.me/shareImg/org/202609/2486886_A15Rrg4V.png" alt="Picrew" width="120px">
       </td>
     </tr>
   </table>
