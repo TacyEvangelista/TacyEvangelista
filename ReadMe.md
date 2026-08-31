@@ -37,11 +37,7 @@ Unindo a tecnologia às ciências da vida, pesquiso modelagem neurofisiológica 
   <img width="8" /> #
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <div><a href="https://github.com/TacyEvangelista">
-<img height-"180em"
-<imgstats.vercel.app/api?username-rafaballerini&show_icons-true&theme-dracula&include_all_commits-true&cou height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
-
+ 
   <a href="https://github.com/TacyEvangelista/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TacyEvangelista&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
