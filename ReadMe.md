@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<img align="center" alt="Picrewの「みにきゃらめーかー３」でつくったよ！ https://picrew.me/share?cd=vVPUaDu2Xr #Picrew #みにきゃらめーかー３">
 
 #
 
