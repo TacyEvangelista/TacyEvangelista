@@ -1,5 +1,17 @@
+<!-- Cabeçalho com fundo azul, letreiro e imagem do Picrew lado a lado -->
 <div align="center">
-  <img src="./src/https://picrew.me/share?cd=vVPUaDu2Xr.png" alt="Welcome Banner">
+  <table width="100%" style="background-color: #0d3b66; border-radius: 8px; padding: 10px;">
+    <tr>
+      <td align="center" style="vertical-align: middle;">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+        </a>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="URL_DA_SUA_IMAGEM_DO_PICREW_AQUI" alt="Picrew Avatar" width="120px">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
