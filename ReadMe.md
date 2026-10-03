@@ -1,5 +1,5 @@
-<h2> Hi, I'm TACY! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm TACY! <img src="https://cdn.picrew.me/shareImg/org/202610/2321144_nHEaLMM5.png" width="50"></h2>
+<img align='right' src="https://cdn.picrew.me/shareImg/org/202610/2321144_nHEaLMM5.png" width="230">
 <p><em>biomedicine and systems analysis <a href="http://www.unb.br">University of UNIFATECIE</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>researcher<a href="https://international.nubank.com.br/about/">researcher</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
